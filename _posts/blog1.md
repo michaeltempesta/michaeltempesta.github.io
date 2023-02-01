@@ -1,5 +1,5 @@
 ---
-title: Revolutionary voice-synthesis technology in Spoofs: A game-changer for voice imitation
+title: Revolutionary voice-synthesis technology in Spoofs. A game-changer for voice imitation
 date: 2023-02-01 12:00:00 +0000
 categories: [Technology, Voice Imitation]
 tags: [voice-synthesis,spoofs,celebrity voices,parody,tts]
