@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-#baseurl: ''
+baseurl: ''
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -26,7 +26,7 @@ tagline: Your Words. Different Voice.   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   Realistic voice replacement powered by clever A.I. technology and you. Offering text-to-speech, speech-to-speech, and video-to-video for fun and flavor on your favorite socials.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://github.com/michaeltempesta/michaeltempesta.github.io'
+url: 'https://michaeltempesta.github.io/'
 
 github:
   username: michaeltempesta             # change to your github username
