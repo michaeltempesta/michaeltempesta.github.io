@@ -24,7 +24,7 @@ title: Michael Tempesta                        # the main title
 tagline: Spoofs. Your Words. Different Voice. Available on iOS and android now!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Realistic voice replacement powered by clever A.I. technology and you. Offering text-to-speech, speech-to-speech, and video-to-video for fun and flavor on your favorite socials.
+  Realistic voice replacement powered by clever A.I. technology and you. Offering text-to-speech, speech-to-speech, and video-to-video for fun and flavor on your favorite socials. voice-synthesis, parody, app, TTS, STS, VTV, popular app, voice-generation
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://michaeltempesta.github.io/'
 
@@ -42,10 +42,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/spoofsapp     # change to your twitter homepage
-    #- https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
     - https://www.facebook.com/spoof.sapp.7
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/michael-tempesta-677480166/
 
 google_site_verification: 913677774f262e78        # fill in to your verification string
 
@@ -80,7 +78,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://avatars.githubusercontent.com/u/40435806?s=400&u=22f2ef00f046d9379395e23058b7335a0ec7bcc3&v=4"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
